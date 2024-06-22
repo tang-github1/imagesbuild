@@ -1,1 +1,1 @@
-FROM quay.io/centos7/mysql-80-centos7
+FROM https://hub.docker.com/r/celaraze/chemex
