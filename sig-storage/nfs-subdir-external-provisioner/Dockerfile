@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
-LABEL MAINTAINER=master@weiyigeeek.top BUILDTYPE=Aliyun
+FROM hub.docker.com/r/celaraze/chemex
+LABEL MAINTAINER=m=main@tang-github1 BUILDTYPE=Aliyun
