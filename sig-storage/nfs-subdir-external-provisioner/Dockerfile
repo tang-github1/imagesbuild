@@ -1,2 +1,2 @@
-FROM hub.docker.com/r/celaraze/chemex
+FROM hub.docker.com/celaraze/chemex:latest
 LABEL MAINTAINER=m=main@tang-github1 BUILDTYPE=Aliyun
