@@ -1,1 +1,1 @@
-FROM https://hub.docker.com/r/celaraze/chemex
+FROM celaraze/chemex:latest
