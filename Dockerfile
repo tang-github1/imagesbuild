@@ -1,1 +1,1 @@
-FROM celaraze/chemex:latest
+FROM celaraze/cat:latest
