@@ -1,1 +1,1 @@
-docker.io/jumpserver/redis:6.2
+docker.io/redis:6.2
