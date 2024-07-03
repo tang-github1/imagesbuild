@@ -1,1 +1,1 @@
-FROM celaraze/cat:latest
+jumpserver/redis
