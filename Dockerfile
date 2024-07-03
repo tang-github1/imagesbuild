@@ -1,1 +1,1 @@
-jumpserver/redis
+jumpserver/redis:6.2
